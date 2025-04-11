@@ -143,7 +143,35 @@ python recommendations.py
 
 ### screenshots
     streamlit version:
+  ![Screenshot 2025-04-11 234924](https://github.com/user-attachments/assets/142629b0-e377-4163-88a9-1ab27c03875b)
+
   ![Screenshot 2025-04-11 235002](https://github.com/user-attachments/assets/84d658c3-ced1-49f5-a96a-88b367ba42c1)
+
+  ![Screenshot 2025-04-11 235117](https://github.com/user-attachments/assets/2cbeb95e-7883-4dc8-99cb-9734c19b56a3)
+
+  ![Screenshot 2025-04-11 235128](https://github.com/user-attachments/assets/437db79f-fca4-4268-8328-cbf47761f05f)
+
+![Screenshot 2025-04-11 235209](https://github.com/user-attachments/assets/356ca947-5a57-4928-b4f5-3e3592cdd0b4)
+
+![Screenshot 2025-04-11 235237](https://github.com/user-attachments/assets/4b6d506b-9c40-49a5-b5da-324f335c9b9b)
+
+![Screenshot 2025-04-11 235250](https://github.com/user-attachments/assets/bea4271a-e7f3-4a0a-a4be-602f6f4b06e7)
+
+![Screenshot 2025-04-11 235303](https://github.com/user-attachments/assets/845464dc-7ab1-412f-94f8-314a3c579a3e)
+
+![Screenshot 2025-04-11 235314](https://github.com/user-attachments/assets/0f772d9d-d3f8-4dd7-8d8e-203dbe80f95d)
+
+ "console llok like this when app running":
+ 
+ 
+ ![Screenshot 2025-04-11 235314](https://github.com/user-attachments/assets/93ab556d-3af9-46b8-bf85-d2c0b956a260)
+
+ standard version:
+
+ ![Screenshot 2025-04-11 234909](https://github.com/user-attachments/assets/1d9dc51f-28ad-424f-9460-ab06bdd354d5)
+
+
+
 
 ## Files
 - **`app.py`**: Streamlit-based web application with interactive UI and visualizations.
