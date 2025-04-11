@@ -161,10 +161,10 @@ python recommendations.py
 
 ![Screenshot 2025-04-11 235314](https://github.com/user-attachments/assets/0f772d9d-d3f8-4dd7-8d8e-203dbe80f95d)
 
- "console llok like this when app running":
+ "console look like this when app running":
  
- 
- ![Screenshot 2025-04-11 235314](https://github.com/user-attachments/assets/93ab556d-3af9-46b8-bf85-d2c0b956a260)
+![Screenshot 2025-04-12 000245](https://github.com/user-attachments/assets/37494508-68d2-4581-9dfa-405e300986f4)
+
 
  standard version:
 
