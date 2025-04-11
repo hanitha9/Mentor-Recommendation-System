@@ -18,7 +18,6 @@ This repository contains two implementations of a mentor recommendation system: 
   - [Standalone Script (`recommendations.py`)](#standalone-script-recommendationspy)
 - [Files](#files)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
