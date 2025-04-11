@@ -140,6 +140,11 @@ python recommendations.py
   - No interface; purely computational with static visualizations.
 ### video walkthrough
     https://drive.google.com/file/d/1i5gN80nmIV7bHZqJ_evZC4CrGfWUtq3o/view?usp=sharing
+
+### screenshots
+    streamlit version:
+    ![Screenshot 2025-04-11 235002](https://github.com/user-attachments/assets/84d658c3-ced1-49f5-a96a-88b367ba42c1)
+
 ## Files
 - **`app.py`**: Streamlit-based web application with interactive UI and visualizations.
 - **`recommendations.py`**: Standalone Python script with console output and plot windows.
