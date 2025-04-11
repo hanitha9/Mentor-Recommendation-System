@@ -143,7 +143,7 @@ python recommendations.py
 
 ### screenshots
     streamlit version:
-    ![Screenshot 2025-04-11 235002](https://github.com/user-attachments/assets/84d658c3-ced1-49f5-a96a-88b367ba42c1)
+  ![Screenshot 2025-04-11 235002](https://github.com/user-attachments/assets/84d658c3-ced1-49f5-a96a-88b367ba42c1)
 
 ## Files
 - **`app.py`**: Streamlit-based web application with interactive UI and visualizations.
