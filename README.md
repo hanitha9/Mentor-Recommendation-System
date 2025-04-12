@@ -141,7 +141,7 @@ python recommendations.py
 ### video walkthrough
     https://drive.google.com/file/d/1i5gN80nmIV7bHZqJ_evZC4CrGfWUtq3o/view?usp=sharing
 ### live demo on streamlit
-     you can access the page by this below link:
+     ## you can access the page by this below link:
      https://mentor-recommendation-system-jc2mhim7hspuezbhxittaa.streamlit.app/
 ### screenshots
     streamlit version:
