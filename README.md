@@ -140,7 +140,9 @@ python recommendations.py
   - No interface; purely computational with static visualizations.
 ### video walkthrough
     https://drive.google.com/file/d/1i5gN80nmIV7bHZqJ_evZC4CrGfWUtq3o/view?usp=sharing
-
+### live demo on streamlit
+     you can access the page by this below link:
+     https://mentor-recommendation-system-jc2mhim7hspuezbhxittaa.streamlit.app/
 ### screenshots
     streamlit version:
   ![Screenshot 2025-04-11 234924](https://github.com/user-attachments/assets/142629b0-e377-4163-88a9-1ab27c03875b)
